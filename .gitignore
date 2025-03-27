@@ -1,0 +1,23 @@
+# Model weights/ checkpoints
+*.pth
+*.gguf
+*.chk
+*.model
+
+# reports and datasets
+*.txt
+*.png
+*.jpg
+/datasets/*
+
+# notebooks
+
+
+/LICENSE
+/USE_POLICY.md
+/hf
+
+# extras/log
+*.out
+*.pyc
+*.log
